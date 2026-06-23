@@ -317,7 +317,7 @@ export default function StudyCompanion() {
                     </h1>
 
                     <div className="w-56 h-56 border-2 border-dashed rounded-2xl flex items-center justify-center">
-                      <img className="w-54 h-54 rounded-2x1" src="/qrcode.png"></img>
+                      <img className="w-54 h-54 rounded-2x1" src="./qrcode.png"></img>
                     </div>
 
                     <p className="text-slate-500 text-base md:text-lg lg:text-xl mt-8 text-center">
